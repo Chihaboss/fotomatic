@@ -1,0 +1,103 @@
+* 
+{
+margin: 0;
+}
+
+.navbar {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    margin-left: 65%;
+    width: 400px;
+    font-size: 20px;
+    
+}
+
+.head-page {
+    display: flex;
+    align-items: center;
+    background-color: rgb(252, 245, 245);
+    width: auto;
+    height: 80px;
+}
+
+.logo-link {
+    margin-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.main-page {
+    display: block;
+    background-image: url(./images/banner-landingpage.jpg);
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    
+    
+    
+}
+
+.box1 {
+    background-color: #9dc20b;
+    width: 570px;
+    height: 360px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    margin-top: 120px;
+    margin-left: 100px;
+    color: white;
+
+}
+
+.content-box {
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.instant {
+    margin-bottom: 15px;
+    font-family: Damion;
+    font-size: 35px;
+}
+
+.big-title {
+    margin-bottom: 15px;
+    font-family: Rubik;
+}
+
+.paragraph {
+    font-size: 25px;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: Roboto;
+}
+
+
+
+.button {
+    margin-top: 50px;
+    background-color: rgb(62, 60, 60);
+    width: 400px;
+    height: 50px;
+    margin-left: 90px;
+    font-size: 25px;
+    padding-top: 15px;
+   
+}
+
+.lesvolet {
+    display: flex;
+  justify-content: space-between;
+  padding: 4rem 5%;
+  background-color: #f3f3f3;
+}
+
+
+    
+      
+  
+
